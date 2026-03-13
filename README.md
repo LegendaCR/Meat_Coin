@@ -8,7 +8,7 @@
 
 **Матвеевский Илья** — Fullstack-разработчик, проектирую и реализую production-системы под ключ.
 
-- **GitHub:** [github.com/LegendaCR](https://github.com/LegendaCR)  
+- **GitHub-Резюме:** [github.com/LegendaCR](https://github.com/LegendaCR)  
 - **Telegram:** [t.me/Legenda_CR](https://t.me/Legenda_CR)
 
 **Опыт:** Telegram-платформы с платежами и автоматизацией, веб-системы (CRM/CMS), дашборды и отчётность, инфраструктура (Linux, Docker, nginx). Работаю в [URS-Russia](https://urs-rus.com), параллельно веду коммерческие проекты — в том числе полный цикл: от ТЗ до своей инфраструктуры и поддержки.
